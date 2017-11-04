@@ -1,0 +1,23 @@
+subprojects {
+	apply plugin: 'java'
+
+    repositories {
+        mavenCentral()
+    }
+}
+
+project(':parser') {
+
+}
+
+project(':pojos') {
+
+}
+
+project(':cca') {
+
+}
+
+project(':analytics') {
+
+}
