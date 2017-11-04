@@ -15,7 +15,6 @@ bin
 build
 out
 lib/
-target
 .factorypath
 .springBeans
 interpolated*.xml
